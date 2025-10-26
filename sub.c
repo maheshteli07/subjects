@@ -13,5 +13,6 @@ int main(){
     printf("NCMC\n");
     printf("CPP\n");
     printf("hi from DA");
+    printf)("hi feom SJ");
 
 }
