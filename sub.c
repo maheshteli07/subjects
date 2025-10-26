@@ -2,6 +2,7 @@
 #include<string.h>
 
 int main(){
+    printf("hi");
     printf("DEVOPS\n");
     printf("JAVA\n");
     printf("DSA\n");
